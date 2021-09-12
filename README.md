@@ -27,7 +27,3 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science , from Cha
 </p>
 
 <hr>
-
-<p align="center">
-<img src="https://github.com/dev749/dev749/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
