@@ -9,7 +9,7 @@ I’m a 2nd-year student pursuing a Bachelors’s in Computer science , from Cha
 <p>
 <a align= "center" href="https://github.com/dev749">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dev749&theme=radical">
-<img align="right" height="350" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak" /> </a>
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/7988b21c14bfe59f6b0edb72fccfac28.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dev749&count_private=true&theme=radical&show_icons=true" />
 
