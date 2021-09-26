@@ -5,7 +5,7 @@
 <h5 align="center">
 I’m a 2nd-year student pursuing a Bachelors’s in Computer science , 
     <br>
-    from Chandigarh University. I am learning many new technologies like Web Development, Android App Development, & Automation of tasks using Python.
+    from Chandigarh University. I am learning many new technologies like Web Development, <br> Android App Development, & Automation of tasks using Python.
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev749&label=Profile%20views&color=0e75b6&style=flat" alt="dev749" /> </p>
 <p>
