@@ -3,7 +3,7 @@
     height="45"
     width="45" />, I'm Dev Mehta</h1>
 <h5 align="center">
-I’m a 2nd-year student pursuing a Bachelors’s in Computer science , 
+I’m a final-year student pursuing a Bachelors’s in Computer science, 
     <br>
     from Chandigarh University. I am learning many new technologies like Web Development, <br> Android App Development, & Automation of tasks using Python.
 </h5>
